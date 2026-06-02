@@ -1,0 +1,5409 @@
+------------------------------------------------------------------
+------This is the log report of the system info of the server.----
+------------------------------------------------------------------
+
+
+---------------------------System Report--------------------------
+CPU Usage : 2.6 %
+------------------------------------------------------------------
+RAM Usage : 67.9 % 
+------------------------------------------------------------------
+
+ Disk Usage Report 
+------------------------------------------------------------------
+/ -> 23.3 % used 
+/home -> 23.3 % used 
+/boot -> 28.2 % used 
+/var/lib/snapd/snap/bare/5 -> 100.0 % used 
+/var/lib/snapd/snap/core20/2769 -> 100.0 % used 
+/var/lib/snapd/snap/core18/2999 -> 100.0 % used 
+/var/lib/snapd/snap/snapd/26382 -> 100.0 % used 
+/boot/efi -> 19.6 % used 
+------------------------------------------------------------------
+
+Network Usage Report
+Sent : 57.87 Mb
+Recv : 1650.57 Mb
+------------------------------------------------------------------
+------------------Top Memory Consuming Processes------------------
+------------------------------------------------------------------
+PID : 6619
+Process Name : firefox
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 4.69 % 
+RAM Usage : 737.42 MB 
+Virtual Memory: 20636.58 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-59
+Threads Count : 128
+File Opened Count : 70
+------------------------------------------------------------------
+PID : 38753
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 4.44 % 
+RAM Usage : 698.34 MB 
+Virtual Memory: 1448376.57 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-53-21
+Threads Count : 12
+File Opened Count : 23
+------------------------------------------------------------------
+PID : 31407
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 4.05 % 
+RAM Usage : 636.77 MB 
+Virtual Memory: 1427716.26 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-24-33
+Threads Count : 20
+File Opened Count : 28
+------------------------------------------------------------------
+PID : 37947
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 4.04 % 
+RAM Usage : 634.52 MB 
+Virtual Memory: 1427720.26 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-53-14
+Threads Count : 21
+File Opened Count : 28
+------------------------------------------------------------------
+PID : 32530
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 3.51 % 
+RAM Usage : 551.82 MB 
+Virtual Memory: 1431992.52 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-27-01
+Threads Count : 12
+File Opened Count : 11
+------------------------------------------------------------------
+PID : 35249
+Process Name : youtube-music
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 2.98 % 
+RAM Usage : 468.91 MB 
+Virtual Memory: 1255666.88 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-40-35
+Threads Count : 28
+File Opened Count : 15
+------------------------------------------------------------------
+PID : 13461
+Process Name : Isolated Web Co
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 2.91 % 
+RAM Usage : 456.82 MB 
+Virtual Memory: 3435.54 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-53-39
+Threads Count : 28
+File Opened Count : 12
+------------------------------------------------------------------
+PID : 3422
+Process Name : gnome-shell
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 2.82 % 
+RAM Usage : 443.87 MB 
+Virtual Memory: 9510.15 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-46
+Threads Count : 33
+File Opened Count : 7
+------------------------------------------------------------------
+PID : 31031
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 2.55 % 
+RAM Usage : 401.43 MB 
+Virtual Memory: 1427621.48 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-24-02
+Threads Count : 19
+File Opened Count : 21
+------------------------------------------------------------------
+PID : 37909
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 2.51 % 
+RAM Usage : 394.37 MB 
+Virtual Memory: 1429285.79 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-53-13
+Threads Count : 20
+File Opened Count : 22
+------------------------------------------------------------------
+----------------------All Running Process-------------------------
+------------------------------------------------------------------
+PID : 1
+Process Name : systemd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.14 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 2
+Process Name : kthreadd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 3
+Process Name : pool_workqueue_release
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 4
+Process Name : kworker/R-rcu_gp
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 5
+Process Name : kworker/R-sync_wq
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 6
+Process Name : kworker/R-kvfree_rcu_reclaim
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 7
+Process Name : kworker/R-slub_flushwq
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 8
+Process Name : kworker/R-netns
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 10
+Process Name : kworker/0:0H-events_highpri
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 13
+Process Name : kworker/R-mm_percpu_wq
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 15
+Process Name : ksoftirqd/0
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 16
+Process Name : rcu_preempt
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 17
+Process Name : rcu_exp_par_gp_kthread_worker/0
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 18
+Process Name : rcu_exp_gp_kthread_worker
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 19
+Process Name : migration/0
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 20
+Process Name : idle_inject/0
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 21
+Process Name : cpuhp/0
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 22
+Process Name : cpuhp/2
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 23
+Process Name : idle_inject/2
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 24
+Process Name : migration/2
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 25
+Process Name : ksoftirqd/2
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 26
+Process Name : kworker/2:0-events_freezable
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 27
+Process Name : kworker/2:0H-events_highpri
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 28
+Process Name : cpuhp/4
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 29
+Process Name : idle_inject/4
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 30
+Process Name : migration/4
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 31
+Process Name : ksoftirqd/4
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 33
+Process Name : kworker/4:0H-events_highpri
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 34
+Process Name : cpuhp/5
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 35
+Process Name : idle_inject/5
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 36
+Process Name : migration/5
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 37
+Process Name : ksoftirqd/5
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 39
+Process Name : kworker/5:0H-events_highpri
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 40
+Process Name : cpuhp/6
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 41
+Process Name : idle_inject/6
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 42
+Process Name : migration/6
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 43
+Process Name : ksoftirqd/6
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 45
+Process Name : kworker/6:0H-events_highpri
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 46
+Process Name : cpuhp/7
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 47
+Process Name : idle_inject/7
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 48
+Process Name : migration/7
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 49
+Process Name : ksoftirqd/7
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 51
+Process Name : kworker/7:0H-events_highpri
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 52
+Process Name : cpuhp/8
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 53
+Process Name : idle_inject/8
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 54
+Process Name : migration/8
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 55
+Process Name : ksoftirqd/8
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 57
+Process Name : kworker/8:0H-events_highpri
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 58
+Process Name : cpuhp/9
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 59
+Process Name : idle_inject/9
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 60
+Process Name : migration/9
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 61
+Process Name : ksoftirqd/9
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 63
+Process Name : kworker/9:0H-events_highpri
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 64
+Process Name : cpuhp/10
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 65
+Process Name : idle_inject/10
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 66
+Process Name : migration/10
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 67
+Process Name : ksoftirqd/10
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 69
+Process Name : kworker/10:0H-events_highpri
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 70
+Process Name : cpuhp/11
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 71
+Process Name : idle_inject/11
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 72
+Process Name : migration/11
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 73
+Process Name : ksoftirqd/11
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 75
+Process Name : kworker/11:0H-events_highpri
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 76
+Process Name : cpuhp/1
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 77
+Process Name : idle_inject/1
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 78
+Process Name : migration/1
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 79
+Process Name : ksoftirqd/1
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 81
+Process Name : kworker/1:0H-events_highpri
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 82
+Process Name : cpuhp/3
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 83
+Process Name : idle_inject/3
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 84
+Process Name : migration/3
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 85
+Process Name : ksoftirqd/3
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 87
+Process Name : kworker/3:0H-events_highpri
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 88
+Process Name : kdevtmpfs
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 89
+Process Name : kworker/R-inet_frag_wq
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 90
+Process Name : rcu_tasks_kthread
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 91
+Process Name : rcu_tasks_rude_kthread
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 92
+Process Name : rcu_tasks_trace_kthread
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 93
+Process Name : kauditd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 94
+Process Name : oom_reaper
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 96
+Process Name : kworker/R-writeback
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 97
+Process Name : kcompactd0
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 98
+Process Name : ksmd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 99
+Process Name : khugepaged
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 100
+Process Name : kworker/R-kblockd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 101
+Process Name : kworker/R-blkcg_punt_bio
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 102
+Process Name : kworker/R-kintegrityd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 104
+Process Name : irq/9-acpi
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 105
+Process Name : kworker/R-tpm_dev_wq
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 106
+Process Name : kworker/R-ata_sff
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 107
+Process Name : kworker/R-md_bitmap
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 108
+Process Name : kworker/R-md
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 109
+Process Name : kworker/R-edac-poller
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 110
+Process Name : kworker/R-devfreq_wq
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 111
+Process Name : watchdogd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 112
+Process Name : kworker/R-quota_events_unbound
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 114
+Process Name : kworker/8:1H-kblockd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 116
+Process Name : kswapd0
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 117
+Process Name : kworker/R-cryptd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 121
+Process Name : kworker/R-kthrotld
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 122
+Process Name : kworker/R-acpi_thermal_pm
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 126
+Process Name : hwrng
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 132
+Process Name : kworker/R-hfi-updates
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 133
+Process Name : kworker/R-dm_bufio_cache
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 134
+Process Name : kworker/R-mld
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 135
+Process Name : kworker/R-ipv6_addrconf
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 136
+Process Name : kworker/9:1H-kblockd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 137
+Process Name : kworker/R-kstrp
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 221
+Process Name : kworker/0:1H-i915_cleanup
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 222
+Process Name : kworker/5:1H-events_highpri
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 224
+Process Name : kworker/11:1H-i915_cleanup
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-17
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 225
+Process Name : kworker/1:1H-kblockd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-17
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 265
+Process Name : kworker/7:1H-kblockd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-17
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 269
+Process Name : kworker/6:1H-i915_cleanup
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-17
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 270
+Process Name : kworker/2:1H-i915_cleanup
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-17
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 273
+Process Name : kworker/10:1H-kblockd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-17
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 274
+Process Name : kworker/4:1H-kblockd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-17
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 290
+Process Name : kworker/8:2-events
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-17
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 397
+Process Name : kworker/3:1H-kblockd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-17
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 441
+Process Name : irq/137-SYNA3602:00
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-17
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 455
+Process Name : spi0
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-17
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 456
+Process Name : kworker/R-nvme-wq
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-17
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 457
+Process Name : kworker/R-nvme-reset-wq
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-17
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 458
+Process Name : kworker/R-nvme-delete-wq
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-17
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 459
+Process Name : kworker/R-nvme-auth-wq
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-17
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 473
+Process Name : kworker/R-btrfs-worker
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-18
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 474
+Process Name : kworker/R-btrfs-delalloc
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-18
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 475
+Process Name : kworker/R-btrfs-flush_delalloc
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-18
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 476
+Process Name : kworker/R-btrfs-cache
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-18
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 477
+Process Name : kworker/R-btrfs-fixup
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-18
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 478
+Process Name : kworker/R-btrfs-endio
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-18
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 479
+Process Name : kworker/R-btrfs-endio-meta
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-18
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 480
+Process Name : kworker/R-btrfs-rmw
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-18
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 481
+Process Name : kworker/R-btrfs-endio-write
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-18
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 482
+Process Name : kworker/R-btrfs-freespace-write
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-18
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 483
+Process Name : kworker/R-btrfs-delayed-meta
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-18
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 484
+Process Name : kworker/R-btrfs-qgroup-rescan
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-18
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 485
+Process Name : btrfs-cleaner
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-18
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 486
+Process Name : btrfs-transaction
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-18
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 488
+Process Name : kworker/R-ttm
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-18
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 511
+Process Name : card1-crtc0
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-18
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 512
+Process Name : card1-crtc1
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-18
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 513
+Process Name : card1-crtc2
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-18
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 514
+Process Name : card1-crtc3
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-18
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 598
+Process Name : systemd-journald
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.45 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-29
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 630
+Process Name : systemd-userdbd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.04 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-29
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 646
+Process Name : systemd-udevd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.10 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-29
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 647
+Process Name : psimon
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-29
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 725
+Process Name : irq/148-mei_me
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-29
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 736
+Process Name : kworker/R-cfg80211
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-29
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 744
+Process Name : irq/16-processor_thermal_device_pci
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-29
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 745
+Process Name : irq/149-iwlwifi:default_queue
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-29
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 746
+Process Name : irq/150-iwlwifi:queue_1
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-29
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 747
+Process Name : irq/151-iwlwifi:queue_2
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-29
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 748
+Process Name : irq/152-iwlwifi:queue_3
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-29
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 750
+Process Name : irq/153-iwlwifi:queue_4
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-29
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 751
+Process Name : irq/154-iwlwifi:queue_5
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-29
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 752
+Process Name : irq/155-iwlwifi:queue_6
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-29
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 753
+Process Name : irq/156-iwlwifi:queue_7
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-29
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 754
+Process Name : irq/157-iwlwifi:queue_8
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-29
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 755
+Process Name : irq/158-iwlwifi:queue_9
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-29
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 756
+Process Name : irq/159-iwlwifi:queue_10
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-29
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 757
+Process Name : irq/160-iwlwifi:queue_11
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-29
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 758
+Process Name : irq/161-iwlwifi:queue_12
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-29
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 759
+Process Name : irq/162-iwlwifi:exception
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-29
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 768
+Process Name : kworker/R-kmemstick
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 787
+Process Name : jbd2/nvme0n1p5-8
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 801
+Process Name : kworker/R-ext4-rsv-conversion
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 839
+Process Name : systemd-resolved
+Owner : systemd-resolve
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.11 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 850
+Process Name : auditd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.02 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 885
+Process Name : dbus-broker-launch
+Owner : dbus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.03 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 886
+Process Name : dbus-broker
+Owner : dbus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.06 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 889
+Process Name : avahi-daemon
+Owner : avahi
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.03 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 890
+Process Name : bluetoothd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.04 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 894
+Process Name : irqbalance
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.03 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 895
+Process Name : chronyd
+Owner : chrony
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.04 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 898
+Process Name : low-memory-monitor
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.04 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 900
+Process Name : mcelog
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.01 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 902
+Process Name : polkitd
+Owner : polkitd
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.09 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 903
+Process Name : rtkit-daemon
+Owner : rtkit
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.02 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 904
+Process Name : smartd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.04 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 905
+Process Name : switcheroo-control
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 906
+Process Name : systemd-machined
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 907
+Process Name : thermald
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.06 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 908
+Process Name : udisksd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.09 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 909
+Process Name : upowerd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.07 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 924
+Process Name : psimon
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 936
+Process Name : accounts-daemon
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.06 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 944
+Process Name : systemd-logind
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.07 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 948
+Process Name : avahi-daemon
+Owner : avahi
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.01 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 956
+Process Name : alsactl
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.02 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 962
+Process Name : abrtd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.09 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1010
+Process Name : ModemManager
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.08 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1011
+Process Name : firewalld
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.31 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1026
+Process Name : abrt-dump-journal-core
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.49 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1027
+Process Name : abrt-dump-journal-oops
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.42 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1028
+Process Name : abrt-dump-journal-xorg
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.42 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1033
+Process Name : kworker/R-rpciod
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-31
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1034
+Process Name : kworker/R-xprtiod
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-42-31
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1079
+Process Name : NetworkManager
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.15 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-31
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1105
+Process Name : wpa_supplicant
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.07 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-32
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1116
+Process Name : cupsd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.07 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-32
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1119
+Process Name : gssproxy
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-32
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1123
+Process Name : php-fpm
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.23 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-32
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1126
+Process Name : tuned
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.23 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-32
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1193
+Process Name : mysqld
+Owner : mysql
+CPU Usage : 0.00 % 
+RAM Usage in percent : 2.88 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-32
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1194
+Process Name : php-fpm
+Owner : apache
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.07 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-32
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1195
+Process Name : php-fpm
+Owner : apache
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.07 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-32
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1196
+Process Name : php-fpm
+Owner : apache
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.07 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-32
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1197
+Process Name : php-fpm
+Owner : apache
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.07 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-32
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1198
+Process Name : php-fpm
+Owner : apache
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.07 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-32
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1203
+Process Name : tuned-ppd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.21 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-32
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1278
+Process Name : httpd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.08 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-36
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1289
+Process Name : atd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.02 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-36
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1291
+Process Name : crond
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.02 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-36
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1293
+Process Name : gdm
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.07 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-36
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1332
+Process Name : httpd
+Owner : apache
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.04 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-36
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1334
+Process Name : httpd
+Owner : apache
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-36
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1335
+Process Name : httpd
+Owner : apache
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-36
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1340
+Process Name : httpd
+Owner : apache
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-36
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1634
+Process Name : uresourced
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-39
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1731
+Process Name : krfcommd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-39
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1768
+Process Name : colord
+Owner : colord
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.08 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-39
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1901
+Process Name : pcscd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.08 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-40
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 1975
+Process Name : geoclue
+Owner : geoclue
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.26 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-40
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 2998
+Process Name : gdm-session-worker
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.09 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-43
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 3140
+Process Name : systemd
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.10 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-45
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 3146
+Process Name : (sd-pam)
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.02 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-45
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 3164
+Process Name : gnome-keyring-daemon
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 7.61 MB 
+Virtual Memory: 397.77 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-46
+Threads Count : 5
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3260
+Process Name : gdm-wayland-session
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.04 % 
+RAM Usage : 6.18 MB 
+Virtual Memory: 382.50 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-46
+Threads Count : 4
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3290
+Process Name : dbus-broker-launch
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.03 % 
+RAM Usage : 4.53 MB 
+Virtual Memory: 8.97 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-46
+Threads Count : 1
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3302
+Process Name : dbus-broker
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.04 % 
+RAM Usage : 6.23 MB 
+Virtual Memory: 8.07 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-46
+Threads Count : 1
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3318
+Process Name : gnome-session-init-worker
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.04 % 
+RAM Usage : 5.95 MB 
+Virtual Memory: 160.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-46
+Threads Count : 4
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3383
+Process Name : gnome-session-ctl
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.04 % 
+RAM Usage : 6.03 MB 
+Virtual Memory: 304.50 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-46
+Threads Count : 2
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3384
+Process Name : uresourced
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.06 % 
+RAM Usage : 9.74 MB 
+Virtual Memory: 373.11 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-46
+Threads Count : 5
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3389
+Process Name : gnome-session-service
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.07 % 
+RAM Usage : 11.42 MB 
+Virtual Memory: 947.52 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-46
+Threads Count : 5
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3393
+Process Name : gvfsd
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.06 % 
+RAM Usage : 9.36 MB 
+Virtual Memory: 527.46 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-46
+Threads Count : 4
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3402
+Process Name : gvfsd-fuse
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 7.11 MB 
+Virtual Memory: 599.25 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-46
+Threads Count : 7
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3413
+Process Name : pipewire
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.09 % 
+RAM Usage : 14.78 MB 
+Virtual Memory: 325.25 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-46
+Threads Count : 3
+File Opened Count : 2
+------------------------------------------------------------------
+PID : 3414
+Process Name : wireplumber
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.16 % 
+RAM Usage : 24.57 MB 
+Virtual Memory: 918.54 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-46
+Threads Count : 9
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3422
+Process Name : gnome-shell
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 2.82 % 
+RAM Usage : 443.87 MB 
+Virtual Memory: 9510.15 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-46
+Threads Count : 33
+File Opened Count : 7
+------------------------------------------------------------------
+PID : 3484
+Process Name : at-spi-bus-launcher
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 7.79 MB 
+Virtual Memory: 372.01 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-46
+Threads Count : 5
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3490
+Process Name : dbus-broker-launch
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.03 % 
+RAM Usage : 4.15 MB 
+Virtual Memory: 8.76 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-46
+Threads Count : 1
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3491
+Process Name : dbus-broker
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.02 % 
+RAM Usage : 3.23 MB 
+Virtual Memory: 5.09 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-46
+Threads Count : 1
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3492
+Process Name : at-spi2-registryd
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 7.55 MB 
+Virtual Memory: 164.49 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-46
+Threads Count : 4
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3497
+Process Name : xdg-permission-store
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.04 % 
+RAM Usage : 6.29 MB 
+Virtual Memory: 518.41 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 4
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3520
+Process Name : gnome-shell-calendar-server
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.17 % 
+RAM Usage : 27.46 MB 
+Virtual Memory: 797.03 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 7
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3543
+Process Name : evolution-source-registry
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.35 % 
+RAM Usage : 55.39 MB 
+Virtual Memory: 1684.05 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 5
+File Opened Count : 1
+------------------------------------------------------------------
+PID : 3550
+Process Name : gjs
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.22 % 
+RAM Usage : 33.83 MB 
+Virtual Memory: 2914.26 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 12
+File Opened Count : 1
+------------------------------------------------------------------
+PID : 3576
+Process Name : ibus-daemon
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.09 % 
+RAM Usage : 13.75 MB 
+Virtual Memory: 598.35 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 4
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3582
+Process Name : gsd-a11y-settings
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.07 % 
+RAM Usage : 10.71 MB 
+Virtual Memory: 467.46 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 5
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3589
+Process Name : gsd-color
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.07 % 
+RAM Usage : 10.93 MB 
+Virtual Memory: 602.69 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 5
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3592
+Process Name : gsd-datetime
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.09 % 
+RAM Usage : 13.54 MB 
+Virtual Memory: 478.77 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 5
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3598
+Process Name : gsd-housekeeping
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.07 % 
+RAM Usage : 11.50 MB 
+Virtual Memory: 602.96 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 5
+File Opened Count : 1
+------------------------------------------------------------------
+PID : 3606
+Process Name : gsd-keyboard
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 7.79 MB 
+Virtual Memory: 592.38 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 5
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3610
+Process Name : gsd-media-keys
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.09 % 
+RAM Usage : 14.71 MB 
+Virtual Memory: 745.38 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 5
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3614
+Process Name : gsd-power
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.09 % 
+RAM Usage : 14.18 MB 
+Virtual Memory: 744.11 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 6
+File Opened Count : 1
+------------------------------------------------------------------
+PID : 3618
+Process Name : gsd-print-notifications
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.10 % 
+RAM Usage : 15.61 MB 
+Virtual Memory: 546.20 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 4
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3622
+Process Name : gsd-rfkill
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 7.98 MB 
+Virtual Memory: 664.50 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 4
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3629
+Process Name : gsd-disk-utility-notify
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.06 % 
+RAM Usage : 9.66 MB 
+Virtual Memory: 307.16 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 4
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3633
+Process Name : gsd-screensaver-proxy
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 7.27 MB 
+Virtual Memory: 384.06 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 4
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3643
+Process Name : gsd-sharing
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.08 % 
+RAM Usage : 11.98 MB 
+Virtual Memory: 611.04 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 5
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3646
+Process Name : gsd-smartcard
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.09 % 
+RAM Usage : 13.57 MB 
+Virtual Memory: 602.27 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 6
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3650
+Process Name : gsd-sound
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.06 % 
+RAM Usage : 10.04 MB 
+Virtual Memory: 462.26 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 5
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3653
+Process Name : gsd-usb-protection
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.07 % 
+RAM Usage : 10.34 MB 
+Virtual Memory: 745.87 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 5
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3658
+Process Name : gsd-wwan
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.07 % 
+RAM Usage : 11.64 MB 
+Virtual Memory: 603.36 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 5
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3681
+Process Name : blueman-applet
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.38 % 
+RAM Usage : 59.00 MB 
+Virtual Memory: 875.13 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 6
+File Opened Count : 1
+------------------------------------------------------------------
+PID : 3689
+Process Name : ibus-dconf
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 7.63 MB 
+Virtual Memory: 455.56 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 5
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3690
+Process Name : ibus-extension-gtk3
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.23 % 
+RAM Usage : 35.98 MB 
+Virtual Memory: 706.94 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 6
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3766
+Process Name : ibus-portal
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 7.46 MB 
+Virtual Memory: 519.48 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 4
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3767
+Process Name : abrt-applet
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.14 % 
+RAM Usage : 21.36 MB 
+Virtual Memory: 500.78 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 5
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3768
+Process Name : gjs
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.22 % 
+RAM Usage : 33.87 MB 
+Virtual Memory: 2913.25 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 12
+File Opened Count : 1
+------------------------------------------------------------------
+PID : 3771
+Process Name : gvfs-udisks2-volume-monitor
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.09 % 
+RAM Usage : 14.33 MB 
+Virtual Memory: 607.79 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 5
+File Opened Count : 1
+------------------------------------------------------------------
+PID : 3774
+Process Name : localsearch-3
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.16 % 
+RAM Usage : 25.41 MB 
+Virtual Memory: 930.40 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 10
+File Opened Count : 6
+------------------------------------------------------------------
+PID : 3778
+Process Name : evolution-alarm-notify
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.43 % 
+RAM Usage : 67.30 MB 
+Virtual Memory: 1247.65 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 9
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3781
+Process Name : gnome-software
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 2.39 % 
+RAM Usage : 375.93 MB 
+Virtual Memory: 3620.09 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 18
+File Opened Count : 1
+------------------------------------------------------------------
+PID : 3784
+Process Name : pipewire-pulse
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.11 % 
+RAM Usage : 17.20 MB 
+Virtual Memory: 395.19 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 3
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3793
+Process Name : fumon
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.02 % 
+RAM Usage : 3.79 MB 
+Virtual Memory: 226.71 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 1
+File Opened Count : 1
+------------------------------------------------------------------
+PID : 3810
+Process Name : goa-daemon
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.36 % 
+RAM Usage : 56.30 MB 
+Virtual Memory: 889.62 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 6
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3817
+Process Name : fumon
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.01 % 
+RAM Usage : 2.16 MB 
+Virtual Memory: 226.71 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 1
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3819
+Process Name : busctl
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 7.53 MB 
+Virtual Memory: 16.54 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 1
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3820
+Process Name : fumon
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.02 % 
+RAM Usage : 2.59 MB 
+Virtual Memory: 226.71 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 1
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3826
+Process Name : gvfs-afc-volume-monitor
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 8.50 MB 
+Virtual Memory: 598.19 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 5
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3844
+Process Name : gvfsd-metadata
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 7.15 MB 
+Virtual Memory: 383.33 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 4
+File Opened Count : 3
+------------------------------------------------------------------
+PID : 3854
+Process Name : gvfs-mtp-volume-monitor
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.04 % 
+RAM Usage : 6.98 MB 
+Virtual Memory: 519.10 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 4
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3862
+Process Name : xdg-desktop-portal
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.12 % 
+RAM Usage : 18.23 MB 
+Virtual Memory: 1163.60 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 7
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3877
+Process Name : goa-identity-service
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.07 % 
+RAM Usage : 11.18 MB 
+Virtual Memory: 605.56 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 6
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3890
+Process Name : gvfs-gphoto2-volume-monitor
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 7.57 MB 
+Virtual Memory: 520.95 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 4
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3903
+Process Name : xdg-document-portal
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 7.36 MB 
+Virtual Memory: 810.30 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 7
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3906
+Process Name : evolution-calendar-factory
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.40 % 
+RAM Usage : 62.66 MB 
+Virtual Memory: 1393.56 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 12
+File Opened Count : 2
+------------------------------------------------------------------
+PID : 3915
+Process Name : fusermount3
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.01 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 3931
+Process Name : xdg-desktop-portal-gnome
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.28 % 
+RAM Usage : 43.41 MB 
+Virtual Memory: 1025.13 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 6
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3939
+Process Name : gvfs-goa-volume-monitor
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 7.54 MB 
+Virtual Memory: 519.41 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 4
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 3984
+Process Name : sssd_kcm
+Owner : sssd
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 4007
+Process Name : evolution-addressbook-factory
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.38 % 
+RAM Usage : 59.16 MB 
+Virtual Memory: 1136.26 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 7
+File Opened Count : 1
+------------------------------------------------------------------
+PID : 4044
+Process Name : gnome-keyring-daemon
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 8.34 MB 
+Virtual Memory: 525.35 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 4
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 4069
+Process Name : abrt-dbus
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.09 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 4141
+Process Name : ibus-engine-simple
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 7.54 MB 
+Virtual Memory: 383.54 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 4
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 4173
+Process Name : dconf-service
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.04 % 
+RAM Usage : 6.93 MB 
+Virtual Memory: 160.48 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-47
+Threads Count : 4
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 4314
+Process Name : gvfsd-http
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.25 % 
+RAM Usage : 39.51 MB 
+Virtual Memory: 778.96 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-48
+Threads Count : 5
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 4346
+Process Name : gjs
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.46 % 
+RAM Usage : 72.31 MB 
+Virtual Memory: 3184.02 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-48
+Threads Count : 14
+File Opened Count : 1
+------------------------------------------------------------------
+PID : 4352
+Process Name : gsd-printer
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.09 % 
+RAM Usage : 14.16 MB 
+Virtual Memory: 617.43 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-48
+Threads Count : 4
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 4379
+Process Name : obexd
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 8.09 MB 
+Virtual Memory: 46.57 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-48
+Threads Count : 1
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 4384
+Process Name : blueman-tray
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.34 % 
+RAM Usage : 52.86 MB 
+Virtual Memory: 731.66 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-48
+Threads Count : 6
+File Opened Count : 1
+------------------------------------------------------------------
+PID : 4390
+Process Name : gvfsd-trash
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.08 % 
+RAM Usage : 12.66 MB 
+Virtual Memory: 817.49 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-48
+Threads Count : 5
+File Opened Count : 1
+------------------------------------------------------------------
+PID : 5490
+Process Name : xdg-desktop-portal-gtk
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.17 % 
+RAM Usage : 26.89 MB 
+Virtual Memory: 698.11 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-49
+Threads Count : 6
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 5585
+Process Name : fwupd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.31 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-49
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 6619
+Process Name : firefox
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 4.69 % 
+RAM Usage : 737.42 MB 
+Virtual Memory: 20636.58 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-59
+Threads Count : 128
+File Opened Count : 70
+------------------------------------------------------------------
+PID : 6646
+Process Name : crashhelper
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.02 % 
+RAM Usage : 2.74 MB 
+Virtual Memory: 145.25 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-59
+Threads Count : 2
+File Opened Count : 1
+------------------------------------------------------------------
+PID : 6733
+Process Name : forkserver
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.18 % 
+RAM Usage : 28.27 MB 
+Virtual Memory: 427.81 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-59
+Threads Count : 1
+File Opened Count : 2
+------------------------------------------------------------------
+PID : 6835
+Process Name : Socket Process
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.26 % 
+RAM Usage : 41.64 MB 
+Virtual Memory: 451.37 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-59
+Threads Count : 6
+File Opened Count : 2
+------------------------------------------------------------------
+PID : 6863
+Process Name : Privileged Cont
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 1.36 % 
+RAM Usage : 213.20 MB 
+Virtual Memory: 3032.06 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-59
+Threads Count : 28
+File Opened Count : 12
+------------------------------------------------------------------
+PID : 6873
+Process Name : RDD Process
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.32 % 
+RAM Usage : 49.62 MB 
+Virtual Memory: 558.19 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-42-59
+Threads Count : 5
+File Opened Count : 2
+------------------------------------------------------------------
+PID : 7060
+Process Name : WebExtensions
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 2.44 % 
+RAM Usage : 383.61 MB 
+Virtual Memory: 7271.38 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-43-00
+Threads Count : 31
+File Opened Count : 21
+------------------------------------------------------------------
+PID : 7122
+Process Name : Utility Process
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.30 % 
+RAM Usage : 46.62 MB 
+Virtual Memory: 548.65 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-43-00
+Threads Count : 5
+File Opened Count : 2
+------------------------------------------------------------------
+PID : 8516
+Process Name : ibus-engine-tb
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.68 % 
+RAM Usage : 107.23 MB 
+Virtual Memory: 609.02 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-43-17
+Threads Count : 5
+File Opened Count : 2
+------------------------------------------------------------------
+PID : 9807
+Process Name : nautilus
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 1.56 % 
+RAM Usage : 245.56 MB 
+Virtual Memory: 2679.02 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-44-09
+Threads Count : 16
+File Opened Count : 8
+------------------------------------------------------------------
+PID : 9838
+Process Name : gvfsd-recent
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.07 % 
+RAM Usage : 10.80 MB 
+Virtual Memory: 600.59 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-44-09
+Threads Count : 4
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 9868
+Process Name : gvfsd-network
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.07 % 
+RAM Usage : 10.46 MB 
+Virtual Memory: 600.26 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-44-09
+Threads Count : 5
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 9876
+Process Name : gvfsd-dnssd
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.07 % 
+RAM Usage : 10.98 MB 
+Virtual Memory: 602.28 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-44-09
+Threads Count : 4
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 9884
+Process Name : gvfsd-wsdd
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.06 % 
+RAM Usage : 10.18 MB 
+Virtual Memory: 599.63 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-44-09
+Threads Count : 4
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 9889
+Process Name : wsdd
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.20 % 
+RAM Usage : 31.54 MB 
+Virtual Memory: 260.23 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-44-09
+Threads Count : 1
+File Opened Count : 1
+------------------------------------------------------------------
+PID : 10115
+Process Name : bwrap
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.01 % 
+RAM Usage : 2.23 MB 
+Virtual Memory: 3.66 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-44-15
+Threads Count : 1
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 10116
+Process Name : bwrap
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.01 % 
+RAM Usage : 1.31 MB 
+Virtual Memory: 3.66 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-44-15
+Threads Count : 1
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 10117
+Process Name : glycin-image-rs
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 7.22 MB 
+Virtual Memory: 140.63 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-44-15
+Threads Count : 3
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 11872
+Process Name : gnome-calendar
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.44 % 
+RAM Usage : 69.32 MB 
+Virtual Memory: 1661.74 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-49-15
+Threads Count : 8
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 12609
+Process Name : bwrap
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.01 % 
+RAM Usage : 2.16 MB 
+Virtual Memory: 3.66 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-49-33
+Threads Count : 1
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 12610
+Process Name : bwrap
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.01 % 
+RAM Usage : 1.37 MB 
+Virtual Memory: 3.66 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-49-33
+Threads Count : 1
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 12611
+Process Name : glycin-image-rs
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.06 % 
+RAM Usage : 10.12 MB 
+Virtual Memory: 140.63 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-49-33
+Threads Count : 3
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 12678
+Process Name : kworker/5:0-events
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_11-50-15
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 13167
+Process Name : ptyxis
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.91 % 
+RAM Usage : 142.25 MB 
+Virtual Memory: 1914.95 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-53-09
+Threads Count : 17
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 13183
+Process Name : ptyxis-agent
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 7.56 MB 
+Virtual Memory: 369.24 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-53-09
+Threads Count : 5
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 13205
+Process Name : catatonit
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.69 MB 
+Virtual Memory: 1.03 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-53-09
+Threads Count : 1
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 13461
+Process Name : Isolated Web Co
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 2.91 % 
+RAM Usage : 456.82 MB 
+Virtual Memory: 3435.54 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-53-39
+Threads Count : 28
+File Opened Count : 12
+------------------------------------------------------------------
+PID : 15469
+Process Name : Xwayland
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.44 % 
+RAM Usage : 68.90 MB 
+Virtual Memory: 346.15 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-58-01
+Threads Count : 5
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 15512
+Process Name : gsd-xsettings
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.08 % 
+RAM Usage : 13.10 MB 
+Virtual Memory: 464.97 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-58-01
+Threads Count : 5
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 15536
+Process Name : mutter-x11-frames
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.58 % 
+RAM Usage : 91.06 MB 
+Virtual Memory: 1067.83 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-58-01
+Threads Count : 10
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 15545
+Process Name : ibus-x11
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.31 % 
+RAM Usage : 49.05 MB 
+Virtual Memory: 394.22 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-58-01
+Threads Count : 6
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 15615
+Process Name : keyboxd
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.03 % 
+RAM Usage : 3.95 MB 
+Virtual Memory: 373.52 MB 
+Status : sleeping
+Create Time : 2026-05-02_11-58-01
+Threads Count : 1
+File Opened Count : 1
+------------------------------------------------------------------
+PID : 18949
+Process Name : flatpak-system-helper
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 1.09 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-02-11
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 20462
+Process Name : revokefs-fuse
+Owner : flatpak
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.03 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-03-43
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 20741
+Process Name : Isolated Web Co
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 1.28 % 
+RAM Usage : 201.61 MB 
+Virtual Memory: 3019.16 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-05-10
+Threads Count : 27
+File Opened Count : 12
+------------------------------------------------------------------
+PID : 21191
+Process Name : Isolated Web Co
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 1.51 % 
+RAM Usage : 236.74 MB 
+Virtual Memory: 3001.18 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-06-45
+Threads Count : 27
+File Opened Count : 12
+------------------------------------------------------------------
+PID : 21544
+Process Name : Isolated Web Co
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 1.19 % 
+RAM Usage : 186.38 MB 
+Virtual Memory: 2933.11 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-07-43
+Threads Count : 27
+File Opened Count : 14
+------------------------------------------------------------------
+PID : 21906
+Process Name : zsh
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 8.25 MB 
+Virtual Memory: 230.78 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-09-12
+Threads Count : 1
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 22516
+Process Name : kworker/u48:10-btrfs-endio-write
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_12-11-12
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 22621
+Process Name : gvfsd-admin
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.07 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-11-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 25956
+Process Name : zsh
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 7.75 MB 
+Virtual Memory: 230.52 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-17-14
+Threads Count : 1
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 28234
+Process Name : kworker/u48:0-kvfree_rcu_reclaim
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_12-21-20
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 28235
+Process Name : kworker/u48:1-events_unbound
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_12-21-20
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 28260
+Process Name : systemd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.09 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-21-24
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 28262
+Process Name : (sd-pam)
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.02 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-21-25
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 28274
+Process Name : psimon
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-21-25
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 28362
+Process Name : kworker/9:0-events
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_12-21-27
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 29557
+Process Name : rsyslogd
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.35 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-23-53
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 29754
+Process Name : psimon
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-23-53
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 29780
+Process Name : kworker/7:2-mm_percpu_wq
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_12-23-53
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 29781
+Process Name : kworker/5:1-mm_percpu_wq
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_12-23-53
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 30927
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 1.68 % 
+RAM Usage : 264.52 MB 
+Virtual Memory: 1427630.10 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-24-02
+Threads Count : 39
+File Opened Count : 63
+------------------------------------------------------------------
+PID : 30931
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.33 % 
+RAM Usage : 51.91 MB 
+Virtual Memory: 33492.28 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-24-02
+Threads Count : 1
+File Opened Count : 6
+------------------------------------------------------------------
+PID : 30932
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.33 % 
+RAM Usage : 52.03 MB 
+Virtual Memory: 33492.27 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-24-02
+Threads Count : 1
+File Opened Count : 6
+------------------------------------------------------------------
+PID : 30936
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.08 % 
+RAM Usage : 12.64 MB 
+Virtual Memory: 33492.30 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-24-02
+Threads Count : 1
+File Opened Count : 6
+------------------------------------------------------------------
+PID : 30957
+Process Name : chrome_crashpad_handler
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.02 % 
+RAM Usage : 2.78 MB 
+Virtual Memory: 49173.12 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-24-02
+Threads Count : 3
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 30978
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.90 % 
+RAM Usage : 140.88 MB 
+Virtual Memory: 33925.38 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-24-02
+Threads Count : 22
+File Opened Count : 7
+------------------------------------------------------------------
+PID : 30984
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.50 % 
+RAM Usage : 78.28 MB 
+Virtual Memory: 33309.80 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-24-02
+Threads Count : 10
+File Opened Count : 10
+------------------------------------------------------------------
+PID : 31031
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 2.55 % 
+RAM Usage : 401.43 MB 
+Virtual Memory: 1427621.48 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-24-02
+Threads Count : 19
+File Opened Count : 21
+------------------------------------------------------------------
+PID : 31146
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.97 % 
+RAM Usage : 152.40 MB 
+Virtual Memory: 1443673.76 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-24-06
+Threads Count : 19
+File Opened Count : 6
+------------------------------------------------------------------
+PID : 31392
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.67 % 
+RAM Usage : 105.74 MB 
+Virtual Memory: 1427322.20 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-24-33
+Threads Count : 23
+File Opened Count : 6
+------------------------------------------------------------------
+PID : 31407
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 4.05 % 
+RAM Usage : 636.77 MB 
+Virtual Memory: 1427716.26 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-24-33
+Threads Count : 20
+File Opened Count : 28
+------------------------------------------------------------------
+PID : 32530
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 3.51 % 
+RAM Usage : 551.82 MB 
+Virtual Memory: 1431992.52 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-27-01
+Threads Count : 12
+File Opened Count : 11
+------------------------------------------------------------------
+PID : 32644
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.63 % 
+RAM Usage : 99.66 MB 
+Virtual Memory: 1425319.71 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-27-10
+Threads Count : 8
+File Opened Count : 11
+------------------------------------------------------------------
+PID : 32665
+Process Name : pet
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.03 % 
+RAM Usage : 4.98 MB 
+Virtual Memory: 30.32 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-27-10
+Threads Count : 13
+File Opened Count : 9
+------------------------------------------------------------------
+PID : 32747
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.73 % 
+RAM Usage : 114.63 MB 
+Virtual Memory: 1427322.50 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-27-11
+Threads Count : 23
+File Opened Count : 7
+------------------------------------------------------------------
+PID : 32809
+Process Name : zsh
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 7.11 MB 
+Virtual Memory: 229.86 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-27-11
+Threads Count : 1
+File Opened Count : 1
+------------------------------------------------------------------
+PID : 32913
+Process Name : zsh
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.03 % 
+RAM Usage : 4.82 MB 
+Virtual Memory: 229.92 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-27-11
+Threads Count : 1
+File Opened Count : 1
+------------------------------------------------------------------
+PID : 35047
+Process Name : kworker/6:0-events
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_12-39-21
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 35139
+Process Name : youtube-music
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 1.53 % 
+RAM Usage : 240.43 MB 
+Virtual Memory: 1253807.95 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-40-34
+Threads Count : 39
+File Opened Count : 60
+------------------------------------------------------------------
+PID : 35151
+Process Name : youtube-music
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.36 % 
+RAM Usage : 56.88 MB 
+Virtual Memory: 33517.67 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-40-34
+Threads Count : 1
+File Opened Count : 6
+------------------------------------------------------------------
+PID : 35152
+Process Name : youtube-music
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.37 % 
+RAM Usage : 57.38 MB 
+Virtual Memory: 33517.66 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-40-34
+Threads Count : 1
+File Opened Count : 6
+------------------------------------------------------------------
+PID : 35154
+Process Name : youtube-music
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.08 % 
+RAM Usage : 11.83 MB 
+Virtual Memory: 33517.66 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-40-34
+Threads Count : 1
+File Opened Count : 6
+------------------------------------------------------------------
+PID : 35181
+Process Name : youtube-music
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 1.02 % 
+RAM Usage : 159.64 MB 
+Virtual Memory: 33954.57 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-40-34
+Threads Count : 16
+File Opened Count : 7
+------------------------------------------------------------------
+PID : 35188
+Process Name : youtube-music
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.56 % 
+RAM Usage : 88.02 MB 
+Virtual Memory: 33366.32 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-40-34
+Threads Count : 14
+File Opened Count : 9
+------------------------------------------------------------------
+PID : 35249
+Process Name : youtube-music
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 2.98 % 
+RAM Usage : 468.91 MB 
+Virtual Memory: 1255666.88 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-40-35
+Threads Count : 28
+File Opened Count : 15
+------------------------------------------------------------------
+PID : 35277
+Process Name : youtube-music
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.43 % 
+RAM Usage : 68.28 MB 
+Virtual Memory: 33449.99 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-40-36
+Threads Count : 8
+File Opened Count : 6
+------------------------------------------------------------------
+PID : 36033
+Process Name : kworker/9:2-events
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_12-46-29
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 36175
+Process Name : zsh
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.04 % 
+RAM Usage : 5.86 MB 
+Virtual Memory: 230.84 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-48-19
+Threads Count : 1
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 37869
+Process Name : kworker/u48:6-btrfs-endio-write
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_12-53-13
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 37909
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 2.51 % 
+RAM Usage : 394.37 MB 
+Virtual Memory: 1429285.79 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-53-13
+Threads Count : 20
+File Opened Count : 22
+------------------------------------------------------------------
+PID : 37919
+Process Name : kworker/0:0-events
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_12-53-13
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 37931
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.76 % 
+RAM Usage : 119.39 MB 
+Virtual Memory: 1427322.20 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-53-14
+Threads Count : 23
+File Opened Count : 6
+------------------------------------------------------------------
+PID : 37947
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 4.04 % 
+RAM Usage : 634.52 MB 
+Virtual Memory: 1427720.26 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-53-14
+Threads Count : 21
+File Opened Count : 28
+------------------------------------------------------------------
+PID : 37987
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.63 % 
+RAM Usage : 99.44 MB 
+Virtual Memory: 1425319.71 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-53-17
+Threads Count : 8
+File Opened Count : 5
+------------------------------------------------------------------
+PID : 38131
+Process Name : pet
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.03 % 
+RAM Usage : 5.12 MB 
+Virtual Memory: 30.32 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-53-18
+Threads Count : 13
+File Opened Count : 3
+------------------------------------------------------------------
+PID : 38201
+Process Name : zsh
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 7.13 MB 
+Virtual Memory: 229.86 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-53-19
+Threads Count : 1
+File Opened Count : 1
+------------------------------------------------------------------
+PID : 38259
+Process Name : zsh
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.03 % 
+RAM Usage : 4.89 MB 
+Virtual Memory: 229.93 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-53-19
+Threads Count : 1
+File Opened Count : 1
+------------------------------------------------------------------
+PID : 38753
+Process Name : code
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 4.44 % 
+RAM Usage : 698.34 MB 
+Virtual Memory: 1448376.57 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-53-21
+Threads Count : 12
+File Opened Count : 23
+------------------------------------------------------------------
+PID : 39219
+Process Name : Isolated Web Co
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 1.48 % 
+RAM Usage : 233.31 MB 
+Virtual Memory: 3002.97 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-54-09
+Threads Count : 28
+File Opened Count : 14
+------------------------------------------------------------------
+PID : 39271
+Process Name : Isolated Web Co
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 1.11 % 
+RAM Usage : 173.83 MB 
+Virtual Memory: 2877.27 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-54-10
+Threads Count : 28
+File Opened Count : 12
+------------------------------------------------------------------
+PID : 39477
+Process Name : Isolated Web Co
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 1.54 % 
+RAM Usage : 242.05 MB 
+Virtual Memory: 3007.52 MB 
+Status : sleeping
+Create Time : 2026-05-02_12-55-17
+Threads Count : 28
+File Opened Count : 12
+------------------------------------------------------------------
+PID : 40122
+Process Name : kworker/u48:8-btrfs-endio-write
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-00-15
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 40336
+Process Name : kworker/4:2-events
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-01-26
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 43318
+Process Name : kworker/11:0-mm_percpu_wq
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-11-37
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 43795
+Process Name : kworker/u49:1-i915_flip
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-14-06
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 43855
+Process Name : Isolated Web Co
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 2.38 % 
+RAM Usage : 373.98 MB 
+Virtual Memory: 3230.92 MB 
+Status : sleeping
+Create Time : 2026-05-02_13-14-29
+Threads Count : 29
+File Opened Count : 12
+------------------------------------------------------------------
+PID : 44218
+Process Name : kworker/u48:4-btrfs-endio-write
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-17-14
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 44406
+Process Name : kworker/u48:5-kvfree_rcu_reclaim
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-17-50
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 44747
+Process Name : kworker/4:1-events
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-20-30
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 45292
+Process Name : kworker/u48:2-btrfs-endio-write
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-23-23
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 45397
+Process Name : kworker/3:0-mm_percpu_wq
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-24-27
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 45418
+Process Name : kworker/1:0-mm_percpu_wq
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-24-43
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 45864
+Process Name : kworker/u49:0-rb_allocator
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-26-54
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 45979
+Process Name : kworker/2:1-events
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-27-33
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 46075
+Process Name : kworker/7:0
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-28-11
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 46094
+Process Name : kworker/10:0-events
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-28-29
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 46203
+Process Name : zsh
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.04 % 
+RAM Usage : 5.53 MB 
+Virtual Memory: 230.59 MB 
+Status : sleeping
+Create Time : 2026-05-02_13-29-53
+Threads Count : 1
+File Opened Count : 0
+------------------------------------------------------------------
+PID : 46364
+Process Name : kworker/3:1-mm_percpu_wq
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-30-19
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 46888
+Process Name : kworker/6:2-events
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-32-42
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 47022
+Process Name : kworker/u49:2-rb_allocator
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-33-41
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 47056
+Process Name : kworker/0:2-events
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-34-09
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 47149
+Process Name : kworker/8:0-mm_percpu_wq
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-34-55
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 47150
+Process Name : kworker/11:2
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-34-55
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 47160
+Process Name : kworker/1:2
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-35-04
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 47165
+Process Name : kworker/10:2
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-35-10
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 47295
+Process Name : kworker/4:0
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-36-15
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 47296
+Process Name : kworker/3:2-mm_percpu_wq
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-36-16
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 47314
+Process Name : systemd-userwork:
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_13-36-35
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 47391
+Process Name : kworker/2:2
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-37-09
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 47429
+Process Name : Isolated Servic
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.57 % 
+RAM Usage : 88.99 MB 
+Virtual Memory: 2763.20 MB 
+Status : sleeping
+Create Time : 2026-05-02_13-37-23
+Threads Count : 31
+File Opened Count : 3
+------------------------------------------------------------------
+PID : 47508
+Process Name : kworker/6:1-events
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-38-11
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 47515
+Process Name : systemd-userwork:
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_13-38-13
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 47555
+Process Name : Web Content
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.48 % 
+RAM Usage : 74.93 MB 
+Virtual Memory: 2752.38 MB 
+Status : sleeping
+Create Time : 2026-05-02_13-38-47
+Threads Count : 27
+File Opened Count : 3
+------------------------------------------------------------------
+PID : 47612
+Process Name : kworker/7:1-events
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-39-09
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 47711
+Process Name : systemd-userwork:
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.05 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : sleeping
+Create Time : 2026-05-02_13-39-12
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 47730
+Process Name : kworker/u48:3-btrfs-endio-write
+Owner : root
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.00 % 
+RAM Usage : 0.00 MB 
+Virtual Memory: 0.00 MB 
+Status : idle
+Create Time : 2026-05-02_13-39-32
+Threads Count : N/A
+File Opened Count : N/A
+------------------------------------------------------------------
+PID : 47749
+Process Name : Web Content
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.48 % 
+RAM Usage : 74.84 MB 
+Virtual Memory: 2752.38 MB 
+Status : sleeping
+Create Time : 2026-05-02_13-39-45
+Threads Count : 27
+File Opened Count : 3
+------------------------------------------------------------------
+PID : 47833
+Process Name : Web Content
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.48 % 
+RAM Usage : 74.76 MB 
+Virtual Memory: 2753.41 MB 
+Status : sleeping
+Create Time : 2026-05-02_13-40-22
+Threads Count : 27
+File Opened Count : 3
+------------------------------------------------------------------
+PID : 47871
+Process Name : python3
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.15 % 
+RAM Usage : 24.08 MB 
+Virtual Memory: 252.21 MB 
+Status : running
+Create Time : 2026-05-02_13-40-24
+Threads Count : 1
+File Opened Count : 1
+------------------------------------------------------------------
+PID : 47873
+Process Name : localsearch-extractor-3
+Owner : axrus
+CPU Usage : 0.00 % 
+RAM Usage in percent : 0.31 % 
+RAM Usage : 49.10 MB 
+Virtual Memory: 595.94 MB 
+Status : sleeping
+Create Time : 2026-05-02_13-40-24
+Threads Count : 4
+File Opened Count : 0
+------------------------------------------------------------------
+------------------------ End of log file -------------------------
+------------------------------------------------------------------

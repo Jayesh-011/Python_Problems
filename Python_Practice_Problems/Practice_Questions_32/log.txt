@@ -1,0 +1,2 @@
+The output of script Question_2.py is:
+The duplicate files are None 
