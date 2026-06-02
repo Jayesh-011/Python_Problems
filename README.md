@@ -1,19 +1,19 @@
 # Python Practice Problems
 
-This repository contains a collection of solved Python practice problems, each stored in its own folder with one or more `.py` files.[cite:2][file:3] The focus is on writing clear, readable solutions that build up core Python skills step by step.
+This repository contains a collection of solved Python practice problems, each stored in its own folder inside the `Python_Practice_Problems` directory.[cite:2] Each folder holds one or more `.py` files. The focus is on writing clear, readable solutions that build up core Python skills step by step.[file:3]
 
 ---
 
 ## Repository structure
 
-- A top-level directory containing multiple **problem-set folders**, each with related Python files.[cite:2][file:3]  
-- Each folder groups together solutions for a particular set of questions (for example, a homework sheet or lab exercise).  
-- `.gitignore` keeps Python cache and temporary files out of version control.[cite:1]
+- `Python_Practice_Problems/` – main directory containing multiple **problem-set folders**, each with related Python files.[cite:2]  
+- Each problem-set folder groups together solutions for a particular set of questions (for example, a homework sheet or lab exercise).[file:3]  
+- `.gitignore` (if present) keeps Python cache and temporary files out of version control.[cite:1]
 
 Inside each problem-set folder you will typically find:
 
 - One or more `.py` files, usually one file per question or small group of related questions  
-- Straightforward, script-style solutions that can be run directly with the Python interpreter
+- Straightforward, script-style solutions that can be run directly with the Python interpreter  
 
 ---
 
@@ -67,11 +67,11 @@ Some problem sets may additionally touch on:
 2. **Navigate to a problem set**
 
    ```bash
-   cd Assignments
+   cd Python_Practice_Problems
    cd <some-problem-set-folder>
    ```
 
-   Replace `<some-problem-set-folder>` with any folder name under `Assignments/` that you want to explore.[cite:2]
+   Replace `<some-problem-set-folder>` with any folder name under `Python_Practice_Problems/` that you want to explore.[cite:2]
 
 3. **Run a specific solution**
 
@@ -113,7 +113,7 @@ Because each problem set is self-contained, you can open any folder and start re
 
 To extend this collection with more practice problems:
 
-- Add a new folder under `Assignments/` for your problem set  
+- Add a new folder under `Python_Practice_Problems/` for your problem set  
 - Keep file naming consistent and descriptive (for example, `Q1.py`, `solution_1.py`, etc.)  
 - Prefer clarity and correctness over clever one-liners  
 - Add brief comments where the logic might not be obvious to a beginner  
